@@ -1,0 +1,28 @@
+sentence,word,label,prediction
+Moram u Krankenkasse sutra,Moram,BS,BS
+Moram u Krankenkasse sutra,u,BS,BS
+Moram u Krankenkasse sutra,Krankenkasse,DE,BS
+Moram u Krankenkasse sutra,sutra,BS,BS
+Imam Termin u Gemeinde,Imam,BS,BS
+Imam Termin u Gemeinde,Termin,DE,DE
+Imam Termin u Gemeinde,u,BS,BS
+Imam Termin u Gemeinde,Gemeinde,DE,BS
+Možeš mi poslati Vertrag,Možeš,BS,BS
+Možeš mi poslati Vertrag,mi,BS,BS
+Možeš mi poslati Vertrag,poslati,BS,BS
+Možeš mi poslati Vertrag,Vertrag,DE,BS
+Danas imam online meeting,Danas,BS,BS
+Danas imam online meeting,imam,BS,BS
+Danas imam online meeting,online,O,BS
+Danas imam online meeting,meeting,O,O
+Bio sam u Spitalu,Bio,BS,BS
+Bio sam u Spitalu,sam,BS,BS
+Bio sam u Spitalu,u,BS,BS
+Bio sam u Spitalu,Spitalu,DE,BS
+Ich moram nazvati šefa,Ich,DE,DE
+Ich moram nazvati šefa,moram,BS,BS
+Ich moram nazvati šefa,nazvati,BS,BS
+Ich moram nazvati šefa,šefa,BS,BS
+Moraš napraviti Anmeldung,Moraš,BS,BS
+Moraš napraviti Anmeldung,napraviti,BS,BS
+Moraš napraviti Anmeldung,Anmeldung,DE,DE
