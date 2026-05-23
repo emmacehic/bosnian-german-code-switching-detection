@@ -7,8 +7,10 @@ Bosnian and German using both rule-based and machine learning approaches.
 ## Quick Start
 
 # Clone the repository
-git clone <your-repo-url>
-cd <your-repo-name>
+
+git clone https://github.com/emmacehic/bosnian-german-code-switching-detection.git
+
+cd bosnian-german-code-switching-detection
 
 # Install dependencies
 pip install -r requirements.txt
