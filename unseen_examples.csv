@@ -1,0 +1,28 @@
+sentence,word,label
+"Moram u Krankenkasse sutra",Moram,BS
+"Moram u Krankenkasse sutra",u,BS
+"Moram u Krankenkasse sutra",Krankenkasse,DE
+"Moram u Krankenkasse sutra",sutra,BS
+"Imam Termin u Gemeinde",Imam,BS
+"Imam Termin u Gemeinde",Termin,DE
+"Imam Termin u Gemeinde",u,BS
+"Imam Termin u Gemeinde",Gemeinde,DE
+"Možeš mi poslati Vertrag",Možeš,BS
+"Možeš mi poslati Vertrag",mi,BS
+"Možeš mi poslati Vertrag",poslati,BS
+"Možeš mi poslati Vertrag",Vertrag,DE
+"Danas imam online meeting",Danas,BS
+"Danas imam online meeting",imam,BS
+"Danas imam online meeting",online,O
+"Danas imam online meeting",meeting,O
+"Bio sam u Spitalu",Bio,BS
+"Bio sam u Spitalu",sam,BS
+"Bio sam u Spitalu",u,BS
+"Bio sam u Spitalu",Spitalu,DE
+"Ich moram nazvati šefa",Ich,DE
+"Ich moram nazvati šefa",moram,BS
+"Ich moram nazvati šefa",nazvati,BS
+"Ich moram nazvati šefa",šefa,BS
+"Moraš napraviti Anmeldung",Moraš,BS
+"Moraš napraviti Anmeldung",napraviti,BS
+"Moraš napraviti Anmeldung",Anmeldung,DE
